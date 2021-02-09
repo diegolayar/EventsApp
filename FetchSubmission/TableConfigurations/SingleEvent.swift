@@ -110,6 +110,7 @@ class SingleEvent: UITableViewCell {
             saveEvent.id = Int64(exactly: eventObject!.id)!
             saveEvent.imageURL = eventObject?.imageURL
             saveEvent.ticketsURL = eventObject?.ticketsURL
+            saveEvent.popularity = eventObject!.popularity
             
             do { try context.save() }
             catch { print("Couln't save") }
