@@ -23,10 +23,10 @@ Users can click on an event to see the details as well as buy tickets for  such 
 ## Packages, Dependencies & More
 
 None. The application needs no installations prior to being run.
-For data persistance, I used CoreData.
+For data persistance, CoreData was used.
 
 ##  Note
 
-Please feel free to reach out to me in case there are any problems, or if you just want to mention something in general. My email is diegolaya01@hotmail.com. I am excited to hear back from you. Once again, thank you!
+Please feel free to reach out to me in case there are any problems, or if you just want to mention something in general. My email is diegolaya01@hotmail.com.
 
 
